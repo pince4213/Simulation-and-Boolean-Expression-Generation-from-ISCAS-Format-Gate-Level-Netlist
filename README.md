@@ -10,7 +10,7 @@ This project implements a **Gate-Level Logic Simulation Tool** using Python. It 
 
 - **Title**: Simulation and Boolean Expression Generation from ISCAS-Format Gate-Level Netlists  
 - **Technology**: Python (standard library only)  
-- **Authors**:   Urmit Kikani (22BEC137)  
+- **Authors**:   Prince Viradiya (22BEC144)  
 - **Institution**: Nirma University, Institute of Technology  
 - **Submitted for**: Testing and Verification of Digital Circuits (TVDC)
 
@@ -102,19 +102,13 @@ N23 = ~((N7 & N11) & N16)
 
 ## 📩 Contact
 
-For questions, suggestions, or collaboration:  [Urmitkikani1184@gmail.com](mailto:Urmitkikani1184@gmail.com)
+For questions, suggestions, or collaboration:  [Princeviradiya50@gmail.com](mailto:Princeviradiya50@gmail.com)
 
 ---
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) :
-
----
-
-## 🙌 Acknowledgements
-
-Special thanks to our fellow batchmate [**Neha Golani**](https://github.com/Nehagolani19) for her support throughout the development of this project.  
 
 ---
 
